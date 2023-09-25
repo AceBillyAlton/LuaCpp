@@ -1,2 +1,3 @@
 # LuaCpp
-TestLua
+Testing the interaction between lua and c++
+
